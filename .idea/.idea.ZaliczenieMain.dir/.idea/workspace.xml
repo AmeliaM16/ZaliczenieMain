@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49679c22-2d34-4660-a921-1f31c8825878" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ennn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yfkytdjytdijrsxjtrxkyrz.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +12,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2s8TpxDUTVsYmjuqHGP0P9QNEEy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +23,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "illia",
+    "git-widget-placeholder": "nowy__kurwa",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
@@ -44,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737836389960</updated>
       <workItem from="1737836396256" duration="51000" />
+      <workItem from="1737837646970" duration="54000" />
     </task>
     <servers />
   </component>
